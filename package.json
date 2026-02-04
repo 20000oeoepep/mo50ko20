@@ -1,12 +1,128 @@
-{
-  "name": "messenger-bot",
-  "version": "1.0.0",
-  "description": "بوت ماسنجر يرد تلقائي",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "fca-unofficial": "^1.3.10"
-  }
-}
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261583831427677%22%3A%22LzIR0snt%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.109Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "datr",
+        "value": "N19naUfDFM2jnUsgNn_f0JDw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "sb",
+        "value": "OF9nacz9o7eRSeOL3OFUFbnH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "pas",
+        "value": "61583831427677%3Aok9H3j4DfV",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61583831427677",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "xs",
+        "value": "18%3A-JAKoutNsk-3rA%3A2%3A1768384616%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "locale",
+        "value": "ar_AR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B523x277x3.9006972312927246",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "wd",
+        "value": "277x523",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "fr",
+        "value": "0KjCHwi2YjAijhCLF.AWeLOJg5pTm3sgl-TmV-LQFLc9FTkIy8N2qRQBi5VQYY-a5iHAo.BpZ184..AAA.0.0.Bpg0pc.AWdbS1q8qqjw3h1E--HjPZxBS0k",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101222718%3BT%3A29503532",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3070%3Btimestamp%3A1770211932",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-04T13:32:45.111Z",
+        "lastAccessed": "2026-02-04T13:32:45.111Z"
+    }
+]
