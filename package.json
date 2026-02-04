@@ -1,0 +1,12 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "بوت ماسنجر يرد تلقائي",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "^1.3.10"
+  }
+}
